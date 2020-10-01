@@ -1,12 +1,12 @@
 ## [View Job Openings](https://github.com/remote-job-boards/software-engineering/issues)
 
-# Community Guidelines
+# Our Community Guidelines
 
 - Feel free to comment on job posts to share your thoughts with the community
 - Don't be disrespectful with anyone
 - Do **not** feed the trolls
 
-# Job Posting Requirements/Guidelines
+# Job Posting Requirements/Guidelines T&C.
 
 - **Only** long-term contracts (> 6 months)
 - **Only** full-time
@@ -17,7 +17,7 @@
 
 ## Highlight a job post
 
-Want to see your job highlighted for 7+ days?
+Do you Want to see your job highlighted for 7+ days?
 
 Go to [Purchase Job Highlight](https://remote-job-boards.github.io/software-engineering/job-highlight).
 
