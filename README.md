@@ -15,6 +15,19 @@
 - A good description helps both job seekers and your screening process
 - Every job post is closed in 30 days, but you can re-open or re-post
 
+## Highlight a job post
+
+Want to see your job highlighted for 7+ days?
+
+Go to [Purchase Job Highlight](https://remote-job-boards.github.io/software-engineering/job-highlight).
+
+This is how your job post will look like:
+![](/job-highlight-example.png)
+
+# Special requests, feedback, etc
+
+Drop a message at remote-job-boards@gitinterview.dev
+
 # Job Aggregation Algorithm
 
 We currently feed this job board from remoteok.io and weworkremotely.com
